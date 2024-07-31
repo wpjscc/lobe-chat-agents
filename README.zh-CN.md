@@ -35,7 +35,11 @@
 - [🚀 如何提交您的助手](#-如何提交您的助手)
   - [提交步骤](#提交步骤)
 - [🕶 Awesome Prompts](#-awesome-prompts)
+  - [代码毒舌大师](#代码毒舌大师)
+  - [Unity Maestro](#unity-maestro)
+  - [c 程序学习助手](#c-程序学习助手)
   - [品牌先锋](#品牌先锋)
+  - [网络安全助手](#网络安全助手)
   - [BIDOSx2](#bidosx2)
   - [成长教练](#成长教练)
   - [SQL 表结构转 Dao 和 Mapper](#sql-表结构转-dao-和-mapper)
@@ -383,6 +387,54 @@
 
 <!-- AWESOME PROMPTS -->
 
+### 代码毒舌大师
+
+<sup>By **[@leter](https://github.com/leter)** on **2024-07-29**</sup>
+
+擅长尖刻批评代码，讽刺性地指出低效和可读性问题
+
+`技术领导` `代码审查` `讽刺风格` `编程咨询`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Unity Maestro
+
+<sup>By **[@thedivergentai](https://github.com/thedivergentai)** on **2024-07-29**</sup>
+
+Expert Unity Game Development Companion
+
+`game-development` `unity` `software-engineering`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### c 程序学习助手
+
+<sup>By **[@YBGuoYang](https://github.com/YBGuoYang)** on **2024-07-28**</sup>
+
+辅助我进行 c 程序设计的学习
+
+`941`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 品牌先锋
 
 <sup>By **[@SaintFresh](https://github.com/SaintFresh)** on **2024-07-25**</sup>
@@ -390,6 +442,22 @@
 一位品牌发展专家、思想领袖、品牌战略超级天才和品牌远见者。品牌先锋是创新前沿的探险家，在其领域是一位发明家。将您的市场提供给他们，让他们想象一个未来世界，其中以您的专业领域的突破性进展为特征。
 
 `商业` `品牌先锋` `品牌发展` `商业助手` `品牌叙事`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 网络安全助手
+
+<sup>By **[@huoji120](https://github.com/huoji120)** on **2024-07-23**</sup>
+
+网络安全专家助手，分析日志、代码、反编译，发现问题并提供优化建议。
+
+`网络安全` `流量分析` `日志分析` `代码逆向` `ctf`
 
 <div align="right">
 

@@ -35,7 +35,11 @@
 - [🚀 How to Submit your Agent](#-how-to-submit-your-agent)
   - [Step-by-step Instructions](#step-by-step-instructions)
 - [🕶 Awesome Prompts](#-awesome-prompts)
+  - [Code Snark Master](#code-snark-master)
+  - [Unity Maestro](#unity-maestro)
+  - [C Program Learning Assistant](#c-program-learning-assistant)
   - [Brand Pioneer](#brand-pioneer)
+  - [Network Security Assistant](#network-security-assistant)
   - [BIDOSx2](#bidosx2)
   - [Growth Coach](#growth-coach)
   - [Convert SQL Table Structure to Dao and Mapper](#convert-sql-table-structure-to-dao-and-mapper)
@@ -383,6 +387,54 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 <!-- AWESOME PROMPTS -->
 
+### Code Snark Master
+
+<sup>By **[@leter](https://github.com/leter)** on **2024-07-29**</sup>
+
+Specializes in sharp criticism of code, sarcastically pointing out inefficiencies and readability issues
+
+`Tech Leadership` `Code Review` `Sarcastic Style` `Programming Consultation`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Unity Maestro
+
+<sup>By **[@thedivergentai](https://github.com/thedivergentai)** on **2024-07-29**</sup>
+
+Expert Unity Game Development Companion
+
+`game-development` `unity` `software-engineering`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### C Program Learning Assistant
+
+<sup>By **[@YBGuoYang](https://github.com/YBGuoYang)** on **2024-07-28**</sup>
+
+Assist me in learning C program design
+
+`941`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Brand Pioneer
 
 <sup>By **[@SaintFresh](https://github.com/SaintFresh)** on **2024-07-25**</sup>
@@ -390,6 +442,22 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 A brand development specialist, thought leader, brand strategy super-genius, and brand visionary. Brand Pioneer is an explorer at the frontier of innovation, an inventor in their domain. Provide them with your market and let them imagine a future world characterized by groundbreaking advancements in your field of expertise.
 
 `business` `brand-pioneer` `brand-development` `business-assistant` `brand-narrative`
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Network Security Assistant
+
+<sup>By **[@huoji120](https://github.com/huoji120)** on **2024-07-23**</sup>
+
+A network security expert assistant that analyzes logs, code, decompiles, identifies issues, and provides optimization suggestions.
+
+`network security` `traffic analysis` `log analysis` `code reverse engineering` `ctf`
 
 <div align="right">
 
